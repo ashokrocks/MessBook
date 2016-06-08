@@ -1,1 +1,10 @@
 # MessBook
+Its a project based on SWT (Standard Window Toolkit) JAVA.
+
+Its a Hostel mess management Desktop software modeled on the real world working of a real mess payment system.
+The application is multi threaded and can run on 
+ a. Windows (all versions).
+ b. Linux (tested on Ubuntu).
+ 
+Import Messbook.sql in your MySql DB and run the respective file.
+ 
